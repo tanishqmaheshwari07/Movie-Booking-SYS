@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Booking
 
 A Java and SQLite movie-ticket booking project with a console application and a browser-based interface.
@@ -88,3 +89,6 @@ movie_booking.db
 - The database is initialized automatically on launch.
 - Passwords are currently plaintext for demonstration purposes only. Use password hashing before deploying a real application.
 - Seat availability currently validates the requested seat count (1–60); it does not model individual cinema seats or showtime capacity.
+=======
+# Movie-Booking-SYS
+>>>>>>> 75129c693f411f7f60748eb71f710acada773246
